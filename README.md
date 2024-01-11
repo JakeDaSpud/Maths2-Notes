@@ -7,30 +7,30 @@ My .md notes for this one maths exam...
 [[Functions](#functions)]
 [[Graph Theory](#graph_theory)]
 
-# <a name = "vectors">Vectors</a>
+# <a name = "vectors">↗️Vectors↗️</a>
 
-Notes:
+**Notes:**
 
 -a- -b- -c- ("a bar, b bar, c bar") is how i write vector notation
 
 ^i^ ^j^ ^k^ ("i hat, j hat, k hat") is how i write unit vector notation: **unit vectors define what the size of basic unit / measurement of a vector is (typically 1)**
 
-Formulae:
+**Formulae:**
 
-# <a name = "matrices">Matrices</a>
+# <a name = "matrices">🔢Matrices🔢</a>
 
-Notes:
+**Notes:**
 
-Formulae:
+**Formulae:**
 
-# <a name = "functions">Functions</a>
+# <a name = "functions">🌊Functions🌊</a>
 
-Notes:
+**Notes:**
 
-Formulae:
+**Formulae:**
 
-# <a name = "graph_theory">Graph Theory</a>
+# <a name = "graph_theory">🗺️Graph Theory🗺️</a>
 
-Notes:
+**Notes:**
 
-Formulae:
+**Formulae:**
