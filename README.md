@@ -1,11 +1,13 @@
 # Maths2-Notes
 My .md notes for this one maths exam...
-[<a name = "vectors">Vectors</a>]
-[<a name = "matrices">Matrices</a>]
-[<a name = "functions">Functions</a>]
-[<a name = "graph_theory">Graph Theory</a>]
 
-# [Vectors](#vectors)
+**INDEX:**
+[[Vectors](#vectors)]
+[[Matrices](#matrices)]
+[[Functions](#functions)]
+[[Graph Theory](#graph_theory)]
+
+# <a name = "vectors">Vectors</a>
 
 Notes:
 
@@ -15,19 +17,19 @@ Notes:
 
 Formulae:
 
-# [Matrices](#matrices)
+# <a name = "matrices">Matrices</a>
 
 Notes:
 
 Formulae:
 
-# [Functions](#functions)
+# <a name = "functions">Functions</a>
 
 Notes:
 
 Formulae:
 
-# [Graph Theory](#graph_theory)
+# <a name = "graph_theory">Graph Theory</a>
 
 Notes:
 
